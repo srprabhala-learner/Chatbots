@@ -1,0 +1,27 @@
+streamlit
+python-dotenv
+openai
+langchain
+langchain_text_splitters
+langchain_community
+langchain_core
+langchain_huggingface
+sentence-transformers
+PyPDF2
+pdf2image
+pytesseract
+Pillow
+chromadb
+faiss-cpu
+langchain-ollama
+langchain-openai
+# Web search and scraping
+duckduckgo-search
+beautifulsoup4
+requests
+html5lib
+lxml
+# langchain-hub is included in langchain package, no need to install separately
+# Optional: For better Google search (requires API key)
+# google-search-results
+# Ollama support (already included in langchain-ollama)
